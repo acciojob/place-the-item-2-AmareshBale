@@ -3,6 +3,7 @@
 .parent{
 	display:flex;
 	flex-wrap:wrap;
+	justify-content:center;
 }
 .box{
 	width:50px;
